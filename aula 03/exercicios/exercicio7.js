@@ -1,0 +1,1 @@
+// Realizado no arquivo Calculadora.js durante a aula.
